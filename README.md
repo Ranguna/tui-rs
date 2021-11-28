@@ -1,3 +1,8 @@
+# Why the fork ?
+
+This is an attempt to have an up to date tui-rs + offset changes from https://github.com/wookietreiber/tui-rs/tree/offset-manipulation.
+
+
 # tui-rs
 
 [![Build Status](https://github.com/fdehau/tui-rs/workflows/CI/badge.svg)](https://github.com/fdehau/tui-rs/actions?query=workflow%3ACI+)
